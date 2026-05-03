@@ -829,6 +829,12 @@ nav {
 }
 
 /* ── TEAM ── */
+#page-team .section {
+    background: linear-gradient(135deg, rgba(59, 185, 255, 0.03), rgba(94, 199, 58, 0.03));
+    border-radius: 20px;
+    padding: 60px;
+}
+
 .team-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
